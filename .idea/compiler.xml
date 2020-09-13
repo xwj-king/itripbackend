@@ -15,8 +15,5 @@
         <module name="itrip-utils" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="itrip-utils" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
